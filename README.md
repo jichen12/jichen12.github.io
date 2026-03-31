@@ -45,8 +45,8 @@ This project explores the control of electrical-optical components such as galvo
 
 * **Key Results:** Synchronized the detection and illumination arm by controlling electrical components and achieved near-perfct imaging quality.
 * **Technical Detail:** Utilizing C/C++/Python to program hardware-software integration software.
-* **Introduction Video:** (https://www.youtube.com/watch?v=a0U61sElaWA)
-* **Poster:** (./poster.jpg)
+* **Introduction Video:** [Video Link](https://www.youtube.com/watch?v=a0U61sElaWA)
+* **Poster:** [Poster](./Chai_Resume.pdf)
 
 ### 🤖 Quadrupedal Navigation Research
 **Overview:**
