@@ -21,6 +21,53 @@ Now I'm interested in embodied AI, physical AI, and the integration of robotic c
 
 ---
 
+## Project Showcase: Testing and Triggering Failures in Autonomous Systems
+
+### 1. Project Idea:
+Quadrupedal robots represent a frontier in mobile robotics because of their ability to traverse terrain. Unlike wheels, which require continuous flat surfaces, legged systems can step over obstacles, climb stairs, and navigate rubble.
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/d9a0d389-3785-4829-b022-aca5942727ee" />
+
+#### Why Failure Testing?
+* **Defining the Operational Envelope:** Knowing exactly what slope or step height causes a system to fail.
+* **Safety and Reliability:** Identifying software or balance triggers that could lead to catastrophic hardware damage.
+* **Robustness Improvement:** Providing data-driven insights to improve control algorithms.
+
+## 2. Project Progress:
+
+1.  **System Integration:** I began by configuring a native Ubuntu 22.04 environment on my laptop to ensure compatibility with high-performance robotics middleware.
+2.  **Environment Setup:** I successfully set up the simulation environment (Gazebo/RVIZ).
+3.  **Framework Deployment:** I identified, downloaded, and installed a robust open-source quadrupedal project to serve as the foundation for my testing.
+4.  **ROS 2 Mastery:** I learned to develop within the **Robot Operating System 2 (ROS 2)** ecosystem, mastering the nodes and communication protocols used to control the robot.
+5.  **Systematic Failure Testing:** After observing that the robot struggled with non-flat terrain, I conducted systematic tests on ramps and stairs to collect data on exactly when and why the robot would break.
+
+## 3. Project Successes and Failures
+
+### Roadblocks and Successes
+The path of the project involved overcoming the initial learning curve of ROS 2 and simulation stability. However, the systematic approach to testing led to a significant success: the quantification of failure.
+
+### Data Visualization
+The primary output of my testing is a data-driven plot showing the **Relationship of Ramp Height vs. Failure Rate**. This analysis allows us to visualize the mechanical and algorithmic limits of the current system, identifying the specific heights where the robot can no longer maintain stability.
+
+## 4. ECE Skills Gained
+
+Through this project, I have significantly expanded my technical toolkit within the Electrical and Computer Engineering domain:
+
+* **Programming:** Gained hands-on experience in **ROS 2** development and architecture.
+* **Simulation Tools:** Learned how to utilize industry-standard simulation software to model physical environments.
+* **Robot Operations:** Developed the skills to operate complex robotic systems and interface with specialized **APIs** to command motion and poll joint-state data.
+* **Data Analysis:** Learned to collect and interpret telemetry data to improve system performance.
+
+## 5. Final Thoughts
+
+### Experience & Interest
+Completing this project has been an invaluable experience. It has deeply reinforced my interest in my chosen thread, providing a practical perspective on the challenges of autonomous locomotion.
+
+### Future Outlook
+I am eager to continue this project further. I believe the next step is to use the data I’ve collected to refine the control laws, with the goal of decreasing the failure rate on the very ramps and stairs I tested this semester.
+
+
+---
+
 ## Resume
 Click the link below to view or download my latest ECE Career Fair resume.
 
