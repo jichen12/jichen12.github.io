@@ -40,7 +40,7 @@ Quadrupedal robots represent a frontier in mobile robotics because of their abil
 4.  **ROS 2 Mastery:** I learned to develop within the **Robot Operating System 2 (ROS 2)** ecosystem, mastering the nodes and communication protocols used to control the robot.
 5.  **Systematic Failure Testing:** After observing that the robot struggled with non-flat terrain, I conducted systematic tests on ramps and stairs to collect data on exactly when and why the robot would break.
 
-https://github.com/user-attachments/assets/f269bd02-b803-415c-9bdf-4f8ccd388116
+<img width="800" height="336" alt="quad" src="https://github.com/user-attachments/assets/0185559d-5118-4461-b841-dc1046f76642" />
 
 ## 3. Project Successes and Failures
 
