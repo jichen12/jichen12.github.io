@@ -21,7 +21,7 @@ Now I'm interested in embodied AI, physical AI, and the integration of robotic c
 
 ---
 
-## Project Showcase: Testing and Triggering Failures in Autonomous Systems
+## Project Showcase: Testing and Triggering Failures in Quadrupedal robots
 
 ### 1. Project Idea:
 Quadrupedal robots represent a frontier in mobile robotics because of their ability to traverse terrain. Unlike wheels, which require continuous flat surfaces, legged systems can step over obstacles, climb stairs, and navigate rubble.
@@ -44,7 +44,7 @@ https://github.com/user-attachments/assets/f269bd02-b803-415c-9bdf-4f8ccd388116
 
 ## 3. Project Successes and Failures
 
-The primary output of my testing is a data-driven plot showing the **Relationship of Ramp vs. Failure Rate**. This analysis allows us to visualize the mechanical and algorithmic limits of the current system, identifying the specific heights where the robot can no longer maintain stability.
+The primary output of my testing is a data-driven plot showing the **Relationship of Ramp vs. Failure Rate**.
 <img width="376" height="226" alt="image" src="https://github.com/user-attachments/assets/1bdd31ce-3c28-47d0-b232-699863dc7e6c" />
 
 
