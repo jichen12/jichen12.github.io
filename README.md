@@ -1,5 +1,5 @@
 # Jichen Chai | Electrical Engineering @ Georgia Tech
-**Specializing in Robotics, Autonomous Systems & Circuit Technology**
+**Specializing in Robotics, Autonomous Systems & Signal Processing**
 
 ---
 
@@ -40,17 +40,15 @@ Quadrupedal robots represent a frontier in mobile robotics because of their abil
 4.  **ROS 2 Mastery:** I learned to develop within the **Robot Operating System 2 (ROS 2)** ecosystem, mastering the nodes and communication protocols used to control the robot.
 5.  **Systematic Failure Testing:** After observing that the robot struggled with non-flat terrain, I conducted systematic tests on ramps and stairs to collect data on exactly when and why the robot would break.
 
+https://github.com/user-attachments/assets/f269bd02-b803-415c-9bdf-4f8ccd388116
+
 ## 3. Project Successes and Failures
 
-### Roadblocks and Successes
-The path of the project involved overcoming the initial learning curve of ROS 2 and simulation stability. However, the systematic approach to testing led to a significant success: the quantification of failure.
+The primary output of my testing is a data-driven plot showing the **Relationship of Ramp vs. Failure Rate**. This analysis allows us to visualize the mechanical and algorithmic limits of the current system, identifying the specific heights where the robot can no longer maintain stability.
+<img width="376" height="226" alt="image" src="https://github.com/user-attachments/assets/1bdd31ce-3c28-47d0-b232-699863dc7e6c" />
 
-### Data Visualization
-The primary output of my testing is a data-driven plot showing the **Relationship of Ramp Height vs. Failure Rate**. This analysis allows us to visualize the mechanical and algorithmic limits of the current system, identifying the specific heights where the robot can no longer maintain stability.
 
 ## 4. ECE Skills Gained
-
-Through this project, I have significantly expanded my technical toolkit within the Electrical and Computer Engineering domain:
 
 * **Programming:** Gained hands-on experience in **ROS 2** development and architecture.
 * **Simulation Tools:** Learned how to utilize industry-standard simulation software to model physical environments.
@@ -59,10 +57,8 @@ Through this project, I have significantly expanded my technical toolkit within 
 
 ## 5. Final Thoughts
 
-### Experience & Interest
 Completing this project has been an invaluable experience. It has deeply reinforced my interest in my chosen thread, providing a practical perspective on the challenges of autonomous locomotion.
 
-### Future Outlook
 I am eager to continue this project further. I believe the next step is to use the data I’ve collected to refine the control laws, with the goal of decreasing the failure rate on the very ramps and stairs I tested this semester.
 
 
